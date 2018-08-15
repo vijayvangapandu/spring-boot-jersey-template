@@ -6,9 +6,9 @@
 		<version>1.5.3.RELEASE</version>
 	</parent>
 	<groupId>com.vvangapandu</groupId>
-	<artifactId>ops-inventory-graph</artifactId>
+	<artifactId>spring-boot-jersey</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Operations Inventory</name>
+	<name>Template Project</name>
 	<packaging>war</packaging>
 
 	<properties>
